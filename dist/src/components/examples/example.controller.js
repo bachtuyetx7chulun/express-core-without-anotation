@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.example = void 0;
+const example = (_, res) => {
+    return res.send('<h1>Hello world!</h1>');
+};
+exports.example = example;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXhhbXBsZS5jb250cm9sbGVyLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vc3JjL2NvbXBvbmVudHMvZXhhbXBsZXMvZXhhbXBsZS5jb250cm9sbGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUVBLE1BQU0sT0FBTyxHQUFHLENBQUMsQ0FBVSxFQUFFLEdBQWEsRUFBRSxFQUFFO0lBQzVDLE9BQU8sR0FBRyxDQUFDLElBQUksQ0FBQyx1QkFBdUIsQ0FBQyxDQUFBO0FBQzFDLENBQUMsQ0FBQTtBQUVRLDBCQUFPIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgUmVzcG9uc2UsIFJlcXVlc3QgfSBmcm9tICdleHByZXNzJ1xuXG5jb25zdCBleGFtcGxlID0gKF86IFJlcXVlc3QsIHJlczogUmVzcG9uc2UpID0+IHtcbiAgcmV0dXJuIHJlcy5zZW5kKCc8aDE+SGVsbG8gd29ybGQhPC9oMT4nKVxufVxuXG5leHBvcnQgeyBleGFtcGxlIH1cbiJdfQ==
